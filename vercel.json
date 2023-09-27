@@ -1,3 +1,4 @@
 {
-   "framework": "zola"
+   "framework": "zola",
+	"regions": ["gru1"]
  }
