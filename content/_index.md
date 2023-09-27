@@ -16,4 +16,10 @@ extra:
       end: 4
       type: horizontal
       title: Prosas e versos
+    - section: traductions
+      size: 8
+      start: 0
+      end: 4
+      type: default
+      title: Traduções
 ---

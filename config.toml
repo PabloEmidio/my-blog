@@ -39,12 +39,18 @@ email = "p.emidiodev@gmail.com"
 icons = [
   {title = 'Instagram', icon = 'instagram', url = 'https://www.instagram.com/mr.emidioss'},
   {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com/UtraPythonico'},
+  {title = 'Github', icon = 'github', url = 'https://github.com/PabloEmidio'},
 ]
 
 links = []
-themes = ""
-theme = "superhero"
+data_themes = [
+  "quartz",
+  "cyborg",
+  "superhero",
+  "slate",
+]
+themes = "Tema"
+theme = "quartz"
 
 schemes = ""
 bg = "info"
-inverted = true
