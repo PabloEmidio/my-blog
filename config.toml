@@ -1,0 +1,50 @@
+# The URL the site will be built for
+base_url = "https://pabloemidio.com.br/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+
+theme = "zolastrap"
+default_language = "en"
+title = "Pablo Emídio S.S"
+description = "Pensamentos de uma mente pensante"
+generate_feed = false
+
+taxonomies = [
+  {name = "tags", paginate_by = 5},
+  {name = "authors", paginate_by = 5},
+
+]
+
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+
+tag = "Resultado do tópico"
+tags = "Pesquise por tópicos"
+
+
+
+email = "p.emidiodev@gmail.com"
+icons = [
+  {title = 'Instagram', icon = 'instagram', url = 'https://www.instagram.com/mr.emidioss'},
+  {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com/UtraPythonico'},
+]
+
+links = []
+themes = ""
+theme = "superhero"
+
+schemes = ""
+bg = "info"
+inverted = true
