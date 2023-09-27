@@ -1,6 +1,5 @@
 ---
 title: Selvageria do Tempo II
-subtitle: 1
 date: 2023-01-08
 taxonomies:
   tags:
@@ -11,16 +10,16 @@ taxonomies:
     - pabloemidioss
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;Foi ali, naquele tumultuado deserto de areia preenchido pelos sons da natureza em contraste com a poluição sonora emitida pelo homem, que fui cativado. Ali tu deixaste de ser apenas mais uma garota entre milhões de outras, e passaste a ser única, insubstituível e aclamada por todo meu ser. Ali meu coração acelerou por saber que, em poucas horas, tu voltarias para casa, para longe de mim. E foi ali que fiz o tempo parar.
+&nbsp;&nbsp;&nbsp;&nbsp;Ah, tão distantes quão singelos, a simplicidade de um era que outrora fora retratada como um presente complexo. Em que emboscada enfiei-me? E por que eu não sinto que faria diferente?
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Por toda eternidade, eu te queria. Um egoísmo melancólico de um sujeito que sabe que precisa te compartilhar, ainda mais porque não és minha. Outros seres, também, te querem. Te têm. E, talvez, apenas talvez, estas pessoas ao nosso redor possuam, em seus segredos e afetos, uma parte, tua, maior da qual compartilho; mas não importa, pois, por este pequeno vislumbre de eternidade, o tempo está parado para nós dois, e apenas nós dois.
+&nbsp;&nbsp;&nbsp;&nbsp;Fora no deserto de areia, onde a maldita espuma do mar fizera presença. Ciúmes brotavam-me em alvoroço pelos os seres abstratos que te possuíam; e não eu. Mas agora, após ter negado do dote o doce, encontro-me entre os abstratos que te possuem, mas não te têm. O que te tem é físico, e, como um tsunami, sua presença se faz clara e assombra todos à volta. Maldita espuma do mar, sinto agora a sua falta.
 
-&nbsp;&nbsp;&nbsp;Mas, ainda assim, se o conceito de suficiente é causa que satisfaz plenamente, então como eu terei o bastante de tu? Se meus desejos comodistas de te ter cada vez mais tomam tanto de mim, como poderei te dividir com eles? Os santos abstratos.
+&nbsp;&nbsp;&nbsp;O tempo que antes parado e mostrado pressa, está passando com uma lentidão angustiante. Toda parte do meu ser sente a cada segundo o peso dos bilhões de anos, a isso chamamos paixão. Maldita espuma do mar, que enraizaste-te em mim.
 
-&nbsp;&nbsp;&nbsp;Te quero em mil segredos, em mil devaneios e em bilhões de anos. Porém, até ali, enquanto estavas comigo, e não com os outros que a compartilham, tua cabeça estava com eles, teus sorrisos viam, em hora, por eles, tuas conversas com eles nunca cessaram. Até quando tu estás comigo, e não com eles, eles te têm mais do que eu. Foi nessa hora que o tempo voltou a andar, e desta vez, bastante apressado.
+&nbsp;&nbsp;&nbsp;Ainda que dos deuses fosse o sacrifício, dos anjos a caça, dos homens a destruição; eu te protegeria. Ainda que fosse da vida a morte, da crença o pecado, do corpo a dor; eu te viveria. Mas tu és da esperança o passado, da tolice o presente, da saudades o futuro. O que então resta para mim?
 
 
-&nbsp;&nbsp;&nbsp;E, seguindo a pressa do tempo, assustado pelo final à frente, eu tentei te fazer minha. Tentei te ter em outra fração de eternidade onde nada além do ato importa, onde o prazer do ato transforma e define, onde o ato colocaria em palavras tudo aquilo que o coração mudo abnega em expor. E, seguindo a pressa do tempo, tu negaste o ato apressadamente. 
+&nbsp;&nbsp;&nbsp;Que o tempo ainda esteja parado naquele maldito deserto de areia, no unico momento que fora minha. O abstrato machuca, enquanto o físico destrói. Que o tempo ainda esteja parado na frente daquela maldita espuma do mar, e toda esta realidade seja resultado da minha mania de esperar o pior. Que o tempo ainda esteja parado naquela ocasião onde eu ainda queria ser seu.
 
-&nbsp;&nbsp;&nbsp;O tempo que nega em cessar te distanciou de mim, pois havia um tempo onde tu querias o ato. Mas, agora, outro ser desperta, em ti, esse querer. Maldita espuma do mar, que transforma o coração dos homens em um furacão de batata.
+&nbsp;&nbsp;&nbsp;Mas o tempo como a vida corre, anda e rasteja. Mas a vida como o tempo corre, e nesta corrida chegaremos ao ponto de colisão onde tu não queres ser minha, e eu não quero ser teu. Maldita espuma do mar, por que retornaste para o oceano?
